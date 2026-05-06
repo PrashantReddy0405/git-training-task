@@ -1,1 +1,1 @@
-# git-training-task
+Welcome to our company website.
