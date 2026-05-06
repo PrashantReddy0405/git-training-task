@@ -1,4 +1,4 @@
 Company Name: ABC Ltd 
 Location: Pune 
 
-Employee Count: 500
+About: We provide IT training and placements.
