@@ -1,1 +1,1 @@
-Welcome to our company website.
+Welcome to our global company website.
